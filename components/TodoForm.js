@@ -1,4 +1,3 @@
-```javascript
 import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Plus, X } from 'lucide-react';
@@ -205,4 +204,3 @@ const TodoForm = ({ onAddTodo, isOpen, onToggle }) => {
 };
 
 export { TodoForm };
-```
